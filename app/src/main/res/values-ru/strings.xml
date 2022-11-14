@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App4</string>
+    <string name="show_msg_label">Отгадай!</string>
+    <string name="show_hint_label">Задумано двузначное число</string>
+    <string name="show_hint_label_3">Задумано трехзначное число</string>
+    <string name="show_hint_label_4">Задумано четырехзначное число</string>
+    <string name="show_hint_less_label">Задуманное число меньше</string>
+    <string name="show_hint_more_label">Задуманное число больше</string>
+    <string name="btn_guess_label">Отгадать</string>
+    <string name="btn_guess_decision_label">Отгадано!</string>
+    <string name="show_attempts_left_label">5</string>
+    <string name="btn_restart_label">Перезапустить</string>
+    <string name="btn_bad_msg_label">В следующий раз повезёт</string>
+    <string name="btn_good_msg_label">Поздравляю!</string>
+    <string name="_2">2-значные</string>
+    <string name="_3">3-значные</string>
+    <string name="_4">4-значные</string>
+    <string name="settings">Настройки</string>
+    <string name="diaps_array">Список диапозонов</string>
+    <string name="show_rename">Переименовать</string>
+    <string name="show_save">Сохранить</string>
+    <string name="show_hello">Поприветствовать</string>
+    <string name="show_hello_message">Привет</string>
+    <string name="show_loser_hint">Подсказка</string>
+    <string name="show_loser_hint_message">Только слабаки используют подсказки</string>
+    <string name="ok">Выбрать</string>
+    <string name="cancel">Отмена</string>
+    <string name="player_name">Cупер Игрок</string>
+    <string name="share_result">Победил в игру \"Отгадай\" на уровне сложности: </string>
+    <string name="date_time">Дaта-время: </string>
+    <string name="attempt_num">Номер попытки: </string>
+    <string name="wish_num">Загаданное число: </string>
+    <string name="text">Дмитрий Шиша</string>
+    <string name="univer">ГрГУ им.Янки Купалы</string>
+    <string name="course">3 Курс ПОИТ-203</string>
+</resources>

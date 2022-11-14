@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">App5</string>
+    <string name="show_msg_label">Guess</string>
+    <string name="show_hint_label">Conceived two-digits number</string>
+    <string name="show_hint_label_3">Conceived three-digits number</string>
+    <string name="show_hint_label_4">Conceived four-digits number</string>
+    <string name="show_hint_less_label">The intended number is less</string>
+    <string name="show_hint_more_label">The intended number is more</string>
+    <string name="btn_guess_label">Guess!</string>
+    <string name="btn_guess_decision_label">Guessed!</string>
+    <string name="show_attempts_left_label">5</string>
+    <string name="btn_restart_label">Restart</string>
+    <string name="btn_bad_msg_label">Lucky next time</string>
+    <string name="btn_good_msg_label">Congratulations!</string>
+    <string name="_2">2 digits</string>
+    <string name="_3">3 digits</string>
+    <string name="_4">4 digits</string>
+    <string name="settings">Settings</string>
+    <string name="diaps_array">Ling of ranges</string>
+    <string name="show_rename">Rename</string>
+    <string name="show_save">Save</string>
+    <string name="show_hello">Say Hello</string>
+    <string name="show_hello_message">Hello</string>
+    <string name="show_loser_hint">Hint</string>
+    <string name="show_loser_hint_message">Only weaklings use hints</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="player_name">SuperPlayer</string>
+    <string name="share_result">Win in \"Guess\" with difficulty level: </string>
+    <string name="date_time">Date-time: </string>
+    <string name="attempt_num">Attempt number: </string>
+    <string name="wish_num">Wish number: </string>
+    <string name="text">Dmirty Shysha</string>
+    <string name="univer">Yanka Kupala State University of Grodno</string>
+    <string name="course">3 Course POIT-203</string>
+</resources>
